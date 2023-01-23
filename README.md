@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Leetcode-ing it up!
 
-## Here are all the leetcode questions I've solved over time:
+## Total Questions Solved → 12
 
 ### 23/01/23
 
