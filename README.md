@@ -1,11 +1,12 @@
 # 👨🏻‍💻 Leetcode-ing it up!
 
-## Total Questions Solved → 12
+## Total Questions Solved → 15
 
 ### 24/01/23
 
 - 9 - Palindrome Number
 - 1929 - Concatenation of Array
+- 13 - **Roman to Integer**
 
 ### 23/01/23
 
