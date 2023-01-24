@@ -2,6 +2,11 @@
 
 ## Total Questions Solved → 12
 
+### 24/01/23
+
+- 9 - Palindrome Number
+- 1929 - Concatenation of Array
+
 ### 23/01/23
 
 - 1 - Two Sum
