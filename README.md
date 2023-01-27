@@ -1,6 +1,11 @@
 # 👨🏻‍💻 Leetcode-ing it up!
 
-## Total Questions Solved → 15
+## Total Questions Solved → 17
+
+### 27/01/23
+
+- 14 - Longest Common Prefix
+- 21 - Merge Two Sorted Lists
 
 ### 24/01/23
 
