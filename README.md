@@ -1,6 +1,16 @@
 # 👨🏻‍💻 Leetcode-ing it up!
 
-## Total Questions Solved → 17
+## Total Questions Solved → 20
+
+## Questions to Revisit:
+
+- 21
+
+### 30/01/23
+
+- 35 - Search Insert Position
+- 26 - Remove Duplicates from Sorted Array
+- 27 - Remove Element
 
 ### 27/01/23
 
