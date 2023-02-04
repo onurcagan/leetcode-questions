@@ -1,10 +1,15 @@
 # 👨🏻‍💻 Leetcode-ing it up!
 
-## Total Questions Solved → 20
+## Total Questions Solved → 22
 
 ## Questions to Revisit:
 
-- 21
+- 21 - Merge Two Sorted Lists
+
+### 04/02/23
+
+- 66 - Plus One
+- 67 Add Binary
 
 ### 30/01/23
 
@@ -21,7 +26,7 @@
 
 - 9 - Palindrome Number
 - 1929 - Concatenation of Array
-- 13 - **Roman to Integer**
+- 13 - Roman to Integer
 
 ### 23/01/23
 
