@@ -9,7 +9,7 @@
 ### 04/02/23
 
 - 66 - Plus One
-- 67 Add Binary
+- 67 - Add Binary
 
 ### 30/01/23
 
