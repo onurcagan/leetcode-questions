@@ -10,6 +10,8 @@
 
 - 1920 - Build Array from Permutation
 - 1470 - Shuffle the Array
+- 1512 - Number of Good Pairs
+- 2011 - Final Value of Variable After Performing Operations
 
 ---
 
