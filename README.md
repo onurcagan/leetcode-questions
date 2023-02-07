@@ -4,10 +4,14 @@
 
 - 21 - Merge Two Sorted Lists
 
-### Arrays
+## Arrays
+
+### 07/02/23
 
 - 1920 - Build Array from Permutation
 - 1470 - Shuffle the Array
+
+---
 
 ### 04/02/23
 
