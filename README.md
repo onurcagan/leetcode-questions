@@ -1,10 +1,13 @@
 # 👨🏻‍💻 Leetcode-ing it up!
 
-## Total Questions Solved → 22
-
-## Questions to Revisit:
+## Total Questions Solved → 24
 
 - 21 - Merge Two Sorted Lists
+
+### Arrays
+
+- 1920 - Build Array from Permutation
+- 1470 - Shuffle the Array
 
 ### 04/02/23
 
