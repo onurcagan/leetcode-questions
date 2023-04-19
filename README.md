@@ -1,13 +1,16 @@
 # 👨🏻‍💻 Leetcode-ing it up!
 
-## Total Questions Solved → 24
+## Total Questions Solved → 26
 
-- 21 - Merge Two Sorted Lists
+### 20/04/23
+- 2635 - Apply Transform Over Each Element in Array
+- 2629 - Function Composition
 
 ## Arrays
 
 ### 07/02/23
 
+- 21 - Merge Two Sorted Lists
 - 1920 - Build Array from Permutation
 - 1470 - Shuffle the Array
 - 1512 - Number of Good Pairs
